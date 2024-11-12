@@ -251,11 +251,11 @@ h3 {
     height: 630px;
 }
 
-/* .works-step {
+.works-step {
     margin-bottom: 50px;
     margin-right: 25px;
     margin-top: 45px;
-} */
+}
 
 .steps-box:first-child {
     text-align: right;
