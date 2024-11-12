@@ -251,11 +251,11 @@ h3 {
     height: 630px;
 }
 
-.works-step {
+/* .works-step {
     margin-bottom: 50px;
     margin-right: 25px;
     margin-top: 45px;
-}
+} */
 
 .steps-box:first-child {
     text-align: right;
@@ -293,9 +293,9 @@ h3 {
 
 }
 
-.works-step:last-of-type {
+/* .works-step:last-of-type {
     margin-bottom: 80px;
-}
+} */
 
 .btn-app:link,
 .btn-app:visited,
